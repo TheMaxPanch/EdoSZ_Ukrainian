@@ -1,5 +1,5 @@
 #### Windows
-- Download *EdoSZ_Ukrainian.ttf* file.
+- Download [EdoSZ_Ukrainian.ttf](https://github.com/6c31dd8a-5c50-407e-b8e2-0cf48fe1d825) file.
 - Open it (double click)
 - Click "Install" at left-uppet corner.
 
